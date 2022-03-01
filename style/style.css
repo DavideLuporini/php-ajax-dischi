@@ -1,5 +1,10 @@
 body {
     background-color: rgba(30, 45, 59, 255);
+    height: 100vh;
+}
+
+.container {
+    height: 100vh;
 }
 
 
@@ -14,18 +19,17 @@ header {
 
 /* cards */
 
+#card {
+    max-height: 450px;
+}
+
 ul li {
     list-style-type: none;
+}
+
+.bgc {
     background-color: rgba(46, 58, 70, 255);
-    padding: 200px;
-}
-
-img {
-    max-width: 250px
-}
-
-.subtitle {
-    max-width: 250px;
+    padding: 5px;
 }
 
 
