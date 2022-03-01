@@ -1,0 +1,40 @@
+body {
+    background-color: rgba(30, 45, 59, 255);
+}
+
+
+/* header */
+
+header {
+    background-color: rgba(46, 58, 70, 255);
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+
+/* cards */
+
+ul li {
+    list-style-type: none;
+    background-color: rgba(46, 58, 70, 255);
+    padding: 200px;
+}
+
+img {
+    max-width: 250px
+}
+
+.subtitle {
+    max-width: 250px;
+}
+
+
+/* icons */
+
+.fa-spotify {
+    color: green;
+    font-size: 2rem;
+}
+
+
+/* colors */
